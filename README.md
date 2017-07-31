@@ -1,8 +1,8 @@
 # Pcap Replay
 
 This is a tool used to replay http traffic that has been captured. Once you have
-a file with a ```.pcap``` extension, you can use this tool to replay the traffic
-to another machine, as if it was originating from your computer.
+a pcap, you can use this tool to replay the traffic to another machine, as if
+it was originating from your computer.
 
 ## Installation
 Get yourself a computer running ubuntu. After cloning this repository, simply run
